@@ -1,0 +1,39 @@
+.ami{
+    color: red;
+}
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+/* header section */
+
+.header-section{
+    background-image: url(F:\test-repo\new-year-new-me\images\banner/banner1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    text-align: right;
+    margin-top: 0px;
+}
+.header-div{
+    padding-top: 250px;
+    width: 400px;
+    padding-left: 780px;
+}
+.first-p{
+    font-size: 45px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 15px;
+}
+.second-p{
+    font-size: 12px;
+    padding-bottom: 15px;
+}
+.contact-button{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(240, 82, 20);
+    height: 35px;
+    width: 80px;
+}
